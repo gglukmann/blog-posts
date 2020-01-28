@@ -1,6 +1,6 @@
 # Create Multilingual Web Pages With Gatsby, WordPress, WPML, and ACF
 
-Bring your site to the world
+*Bring your site to the world*
 
 ![Gatsby page with English and Estonian content from WordPress](https://cdn-images-1.medium.com/max/2000/1*vVTDgiAoliRU_lI93lpLWQ.jpeg)_Gatsby page with English and Estonian content from WordPress_
 

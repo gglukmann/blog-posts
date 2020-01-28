@@ -1,7 +1,6 @@
+# Validating Our Idea With Google Design Sprint 2.0
 
-# Validating our idea with Google Design Sprint 2.0
-
-When you have an idea for an app but you are not sure how valid it is, how to estimate it quickly and with low costs?
+*When you have an idea for an app but you are not sure how valid it is, how to estimate it quickly and with low costs?*
 
 We had an idea for an app, but weren’t sure how to approach it. We had looked at competitors and wanted to do it differently and better. The idea wasn’t something very revolutionary so we needed to be sure our soon-to-be users and service providers actually need it.
 

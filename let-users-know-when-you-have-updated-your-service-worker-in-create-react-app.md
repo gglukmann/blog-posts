@@ -1,11 +1,12 @@
+# Let Users Know When You Have Updated Your Service Workers in Create React App
 
-# Let users know when you have updated your Service Worker in Create React App
+*Show an alert component when you have pushed a new service worker, allowing the user to update their page right away*
+
+![](https://cdn-images-1.medium.com/max/2000/1*o-uGfk9X59ZU1mloaqxnfA.png)
 
 Create React App (CRA) is great for developing progressive web apps (PWAs). It has offline/cache-first behaviour built in. It’s not enabled by default, but you can opt in. It uses service workers and has a lot of pitfalls you can read about from [official docs](https://create-react-app.dev/docs/making-a-progressive-web-app/).
 
 This piece is going to show you how to trigger an alert (or toast or actually whatever component you want) when you have updated your service worker. Usually, this will be when your app has some new updates and you want the user to see them right away.
-
-![Photo of toast by [marqquin](https://unsplash.com/@marqquin?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/12000/0*hvqDHiDG9pggqJY4)<em><sup>Photo of toast by [marqquin](https://unsplash.com/@marqquin?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</sup></em>
 
 This piece assumes you have a new project made with CRA. If you don’t, you can do it easily with:
 

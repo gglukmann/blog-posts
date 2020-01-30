@@ -152,4 +152,4 @@ I think it’s good to let the user decide if they want a new version right away
 
 Thanks.
 
-Here’s a link to the [https://github.com/gglukmann/cra-sw](https://github.com/gglukmann/cra-sw)
+Here’s a link to the [example repository](https://github.com/gglukmann/cra-sw).

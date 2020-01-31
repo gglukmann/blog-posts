@@ -12,7 +12,7 @@ This article is about how we did it — I suppose it goes a bit differently ever
 
 GDS is a four day sprint with different roles, a lot of discussions and research. Every day has a specific focus and outcome.
 
-![4 days of Google Design Sprint 2.0. Photo from [invisionapp.com](https://www.invisionapp.com/inside-design/design-sprint-2/)](https://cdn-images-1.medium.com/max/3998/1*yLP7II0_h2OGIqL9dMjC4A.png)*4 days of Google Design Sprint 2.0. Photo from [invisionapp.com](https://www.invisionapp.com/inside-design/design-sprint-2/)*
+![4 days of Google Design Sprint 2.0. Photo from [invisionapp.com](https://www.invisionapp.com/inside-design/design-sprint-2/)](./sprint.png)*4 days of Google Design Sprint 2.0. Photo from [invisionapp.com](https://www.invisionapp.com/inside-design/design-sprint-2/)*
 
 It is crucial to include every role you have in your group. Every person with a different role and background has a distinctive perspective on how things should work. Roles can vary depending on who you are working with — product manager, product owner, developer, analyst, tester, designer, UX person, sales person, you name it — just one role you really can’t be without is someone who can make a clickable prototype that is used to present on the fourth day to real users.
 
@@ -26,9 +26,9 @@ Usually design sprint needs some preliminary analysis to figure out who are your
 
 So we started off with gathering ideas. We mapped out all possible scenarios and user groups. We didn’t limit ourselves with anything, every idea was a possibility. We tried to think about every feature or flow our app should do. For advanced user or one time visitor, didn’t matter. For the scope of MVP or very far fetched and complicated features, didn’t matter. We just wanted to get it all out there — no limits.
 
-![Our hub in a meeting room with ideas](https://cdn-images-1.medium.com/max/8000/1*8vS81T92cjz5ifsUDc_tqw.jpeg)*Our hub in a meeting room with ideas*
+![Our hub in a meeting room with ideas](./wall-1.jpeg)*Our hub in a meeting room with ideas*
 
-To be sure we have thought about our idea from every angle, we had a[ MethodKit for Startups](https://methodkit.com/shop/methodkit-for-startups/) to help us. This kit is a set of cards that have keywords on and we tried to answer them or find a solution. This helped to pay attention to the possible danger zones, legal limitations or even how the marketing should be and how the user should even find us.
+To be sure we have thought about our idea from every angle, we had a [MethodKit for Startups](https://methodkit.com/shop/methodkit-for-startups/) to help us. This kit is a set of cards that have keywords on and we tried to answer them or find a solution. This helped to pay attention to the possible danger zones, legal limitations or even how the marketing should be and how the user should even find us.
 
 After all these discussions and research, everyone took some time to think it through and we started drawing our ideas as they should look in the app.
 
@@ -40,7 +40,7 @@ We had gathered again the next morning and began the day with drawing new ideas 
 
 Next step was for us to start deciding what we should keep and what not. Especially for our prototype and for MVP. We started cutting parts of drawings out and gluing them together with duct tape to make user flows. This took most of the day, as new ideas came and erupted with ease. Nevertheless, at the end of the day we managed to agree on the main user flows.
 
-![Adding solutions to the glass wall](https://cdn-images-1.medium.com/max/9216/1*FwE-RS7UbyonTSeRLMkftA.jpeg)*Adding solutions to the glass wall*
+![Adding solutions to the glass wall](./wall-2.jpeg)*Adding solutions to the glass wall*
 
 After our flows were ready, we had to prepare texts that would be used in the prototype. This is always a challenge, especially as we decided to not use English and use our native Estonian language instead.
 

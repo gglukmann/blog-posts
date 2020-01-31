@@ -2,7 +2,7 @@
 
 *Bring your site to the world*
 
-![Gatsby page with English and Estonian content from WordPress](https://cdn-images-1.medium.com/max/2000/1*vVTDgiAoliRU_lI93lpLWQ.jpeg)_Gatsby page with English and Estonian content from WordPress_
+![Gatsby page with English and Estonian content from WordPress](./pages.jpg)_Gatsby page with English and Estonian content from WordPress_
 
 Gatsby is a great static-site generator to use today. Its ecosystem is really large, and you get a lot out of the box. Getting Lighthouse maximum scores is almost default with Gatsby. Anyone who is working with WordPress and wants to separate the CMS and the website itself should at least try to create something with Gatsby. It is really easy to use, and the documentation is very straightforward.
 
@@ -20,7 +20,7 @@ The WordPress REST API endpoint gets you content for the default language. Examp
 
 I have created a page in WordPress with the slug `homepage` and with the ACF fields `title` and `description`.
 
-![ACF fields in WordPress](https://cdn-images-1.medium.com/max/3032/1*kRHiHmk_sOzzTwmNAfDMYg.png)_ACF fields in WordPress_
+![ACF fields in WordPress](./acf.png)_ACF fields in WordPress_
 
 Make sure every page with a different language has the same slug because WordPress creates new slugs for different languages. When I created a new page in the Estonian language, WordPress created the slug `homepage-2`. You could, of course, query it with its ID, too, but it’ll be easier to query data for that page with a known slug. You’ll see later where we’re going to use it.
 

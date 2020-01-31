@@ -2,7 +2,7 @@
 
 *Show an alert component when you have pushed a new service worker, allowing the user to update their page right away*
 
-![](https://cdn-images-1.medium.com/max/2000/1*o-uGfk9X59ZU1mloaqxnfA.png)
+![](./alert.png)
 
 Create React App (CRA) is great for developing progressive web apps (PWAs). It has offline/cache-first behaviour built in. It’s not enabled by default, but you can opt in. It uses service workers and has a lot of pitfalls you can read about from [official docs](https://create-react-app.dev/docs/making-a-progressive-web-app/).
 
@@ -90,7 +90,7 @@ And we can show an Alert when it is `true`:
 )}
 ```
 
-![Alert when Service Worker is installed](https://cdn-images-1.medium.com/max/2000/1*dQ-oTIRtgnbd8PQ84cXJVA.png)<em><sup>Alert when Service Worker is installed</em></sup>
+![Alert when Service Worker is installed](./alert-first.png)<em><sup>Alert when Service Worker is installed</em></sup>
 
 ## Showing the user an alert and a button when a new version of Service Worker is available
 
@@ -144,7 +144,7 @@ And we create an eventListener that waits for our new service-worker state chang
 
 Now the user can see there’s a newer version available, and if they want, they can update it right away.
 
-![Alert when new Service Worker is available](https://cdn-images-1.medium.com/max/2000/1*4k3sIy_o9fICXdJug4wFtA.png)<em><sup>Alert when new Service Worker is available</sup></em>
+![Alert when new Service Worker is available](./alert-new-version.png)<em><sup>Alert when new Service Worker is available</sup></em>
 
 ## Conclusion
 
